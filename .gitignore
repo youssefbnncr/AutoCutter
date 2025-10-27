@@ -3,3 +3,4 @@ music/
 main/
 background/
 venv/
+cleanup_old_folders.bat
